@@ -2,6 +2,6 @@ Software Engineering Methods
 
 Sam Wilson-Perkins
 
-![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/09wilsam01/sem/main.yml?branch=master)
+Master Build Status ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/09wilsam01/sem/main.yml?branch=master)
 
-![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/09wilsam01/sem/main.yml?branch=develop)
+Develop Build Status ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/09wilsam01/sem/main.yml?branch=develop)
